@@ -1,5 +1,6 @@
 ## HR-Analytic-Dashboard
-<img width="655" alt="image" src="https://github.com/user-attachments/assets/b4164cc1-a045-41d4-98ba-bc874b4aca60">
+<img width="655" alt="image" src="![image](https://github.com/user-attachments/assets/bc2d20c3-0d48-4a6b-b380-577ee55ff3ad)
+"
 
 ## Based on Human Resource
 ![image](https://github.com/user-attachments/assets/ff92daae-fe13-4546-9655-7b6fe16b3f56)
