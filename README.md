@@ -1,4 +1,6 @@
 ## HR-Analytic-Dashboard
+Helps an organisation to improve employee performance and improve employee retention (reduce attrition).
+
 ![image](https://github.com/user-attachments/assets/bc2d20c3-0d48-4a6b-b380-577ee55ff3ad)
 
 ## Based on Human Resource
